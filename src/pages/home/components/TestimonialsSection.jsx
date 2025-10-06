@@ -114,7 +114,7 @@ const TestimonialsSection = () => {
             </span>
           </h2>
           <p className="text-lg text-blue-400 max-w-2xl mx-auto leading-relaxed">
-            Don't just take our word for it - hear what our customers across Zimbabwe 
+            Don't just take our word for it - hear what our customers across South Africa 
             have to say about their sweet experiences with us.
           </p>
         </div>

@@ -40,7 +40,7 @@ const AboutUsPreview = () => {
   },
   {
     title: "Trusted Suppliers",
-    description: "We partner with reliable and licensed suppliers across Zimbabwe",
+    description: "We partner with reliable and licensed suppliers across South Africa",
     emoji: "🤝"
   },
   {
@@ -50,7 +50,7 @@ const AboutUsPreview = () => {
   },
   {
     title: "Nationwide Delivery",
-    description: "Fast and reliable delivery to your doorstep across Zimbabwe",
+    description: "Fast and reliable delivery to your doorstep across South Africa",
     emoji: "🚚"
   },
   {

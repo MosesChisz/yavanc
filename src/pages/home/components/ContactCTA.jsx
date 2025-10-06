@@ -17,7 +17,7 @@ const ContactCTA = () => {
       title: "WhatsApp Order",
       subtitle: "Quick & Easy",
       description: "Order directly via WhatsApp for fastest service",
-      number: "+263 77 123 4567",
+      number: "+27 63 150 1184",
       action: "Chat Now",
       icon: <MessageCircle className="w-6 h-6" />,
       bgColor: "from-green-400 to-emerald-500",
@@ -30,7 +30,7 @@ const ContactCTA = () => {
       title: "Call Direct",
       subtitle: "Speak to Us",
       description: "Call for custom orders and consultations",
-      number: "+263 4 123 456",
+      number: "+27 63 150 1184",
       action: "Call Now",
       icon: <Phone className="w-6 h-6" />,
       bgColor: "from-blue-400 to-cyan-500",
@@ -57,8 +57,8 @@ const ContactCTA = () => {
     {
       icon: <MapPin className="w-4 h-4" />,
       title: "Visit Our Bakery",
-      info: "123 Baker Street, Avondale, Harare",
-      subInfo: "Zimbabwe",
+      info: "2 Viner Road, Elma Park, Edenvale",
+      subInfo: "South Africa",
     },
     {
       icon: <Clock className="w-4 h-4" />,

@@ -136,8 +136,7 @@ const FeaturedProducts = () => {
             Our Best Products
           </h2>
           <p className="text-lg text-blue-400 max-w-2xl mx-auto">
-            Discover Zimbabwe's favorite treats, crafted with love and the
-            finest ingredients
+            Discover South Africa's best lab products
           </p>
         </div>
 
