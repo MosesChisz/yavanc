@@ -13,7 +13,7 @@ function CartPage() {
   const navigate = useNavigate();
 
   const handleWhatsAppQuote = () => {
-    let message = "Hello! I would like a quotation for the following baked goods:\n\n";
+    let message = "Hello! I would like a quotation for the following products:\n\n";
     
     cartItems.forEach((item, index) => {
       message += `${index + 1}. ${item.name} - Quantity: ${item.quantity}\n`;

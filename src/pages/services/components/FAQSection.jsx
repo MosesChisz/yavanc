@@ -97,7 +97,7 @@ const FAQSection = () => {
     {
       icon: <Mail className="w-5 h-5" />,
       text: "Prefer email?",
-      action: "hello@sweetdelights.co.zw",
+      action: "hello@yavanc.co.zw",
       description: "We respond within 2 hours during business hours"
     },
     {
