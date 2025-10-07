@@ -223,7 +223,7 @@ const ContactCTA = () => {
         {/* Social Proof */}
         <div className="text-center mt-8">
           <p className="text-blue-500 text-base mb-3">
-            Join over 50,000+ happy customers across Zimbabwe
+            Join over 50,000+ happy customers across Southern Africa
           </p>
           <div className="flex justify-center items-center gap-1 text-blue-500">
             <div className="flex">

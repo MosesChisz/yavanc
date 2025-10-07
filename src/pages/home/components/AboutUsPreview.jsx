@@ -34,7 +34,7 @@ const AboutUsPreview = () => {
 
   const values = [
    {
-    title: "Quality Medicines",
+    title: "Quality Products",
     description: "Certified and approved medical products for your safety and well-being",
     emoji: "💊"
   },
@@ -129,7 +129,7 @@ const AboutUsPreview = () => {
               <div className="aspect-square bg-gradient-to-br from-white to-amber-50 rounded-xl overflow-hidden mb-4">
                 <img 
                   src={muf01} 
-                  alt="Sweet Delights bakery" 
+                  alt="Yavanc Health Care" 
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -142,8 +142,8 @@ const AboutUsPreview = () => {
                   ))}
                 </div>
                 <blockquote className="text-blue-500 italic text-xs sm:text-sm lg:text-base leading-relaxed mb-2">
-                  "Every morning, we wake up excited to create something beautiful and delicious for our community. 
-                  That's the Sweet Delights difference."
+                  "Each morning, we’re motivated to create high-quality lab products that help 
+                   professionals deliver better healthcare outcomes."
                 </blockquote>
                 <div className="text-xs text-blue-700">
                   <p className="font-semibold">- John Doe</p>

@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { ChevronRight, Star, ShoppingBag, Heart } from "lucide-react";
-import cake01 from "../../../assets/images/bp2.jpg";
-import bun01 from "../../../assets/images/bp.jpg";
-import dot01 from "../../../assets/images/bp1.jpg";
-import muf01 from "../../../assets/images/x-ray.jpg";
+import testkit01 from "../../../assets/images/bp2.jpg";
+import glucose01 from "../../../assets/images/bp.jpg";
+import urine01 from "../../../assets/images/bp1.jpg";
+import thermo01 from "../../../assets/images/x-ray.jpg";
 import { useNavigate } from "react-router-dom";
 const FeaturedProducts = () => {
   const navigate = useNavigate();
@@ -14,64 +14,65 @@ const FeaturedProducts = () => {
   const products = [
     {
       id: 1,
-      name: "Chocolate Fudge Cake",
-      description: "Rich, moist chocolate cake with creamy fudge frosting",
-      price: "R25.00",
-      originalPrice: "R30.00",
-      image: cake01,
+      name: "COVID-19 Rapid Test Kit",
+      description: "Accurate antigen testing kit for quick COVID-19 detection.",
+      price: "R250.00",
+      originalPrice: "R300.00",
+      image: testkit01,
       rating: 4.9,
       reviews: 128,
-      badge: "Best Product",
-      category: "Cakes",
+      badge: "Best Seller",
+      category: "Test Kits",
     },
     {
       id: 2,
-      name: "Glazed Doughnuts",
-      description: "Classic glazed doughnuts, soft and sweet perfection",
-      price: "R2.50",
+      name: "Blood Glucose Monitor",
+      description: "Easy-to-use digital meter for accurate blood sugar measurement.",
+      price: "R650.00",
       originalPrice: null,
-      image: bun01,
+      image: glucose01,
       rating: 4.8,
       reviews: 95,
-      badge: "Products",
-      category: "Doughnuts",
+      badge: "Essential Product",
+      category: "Monitoring Devices",
     },
     {
       id: 3,
-      name: "Blueberry Muffins",
-      description: "Fluffy muffins bursting with fresh blueberries",
-      price: "R3.75",
-      originalPrice: "R4.25",
-      image: dot01,
+      name: "Urine Analysis Strips",
+      description: "High-sensitivity test strips for quick and reliable urinalysis.",
+      price: "R120.00",
+      originalPrice: "R150.00",
+      image: urine01,
       rating: 4.7,
       reviews: 73,
-      badge: "Local Products",
-      category: "Muffins",
+      badge: "Lab Essential",
+      category: "Consumables",
     },
     {
       id: 4,
-      name: "Cinnamon Buns",
-      description: "Warm, gooey cinnamon rolls with cream cheese glaze",
-      price: "R4.50",
+      name: "Digital Thermometer",
+      description: "Fast, accurate temperature readings for clinical or home use.",
+      price: "R180.00",
       originalPrice: null,
-      image: muf01,
+      image: thermo01,
       rating: 4.9,
       reviews: 156,
-      badge: "Products",
-      category: "Buns",
+      badge: "Popular Product",
+      category: "Monitoring Devices",
     },
     {
       id: 5,
-      name: "Red Velvet Cupcakes",
-      description: "Velvety smooth cupcakes with cream cheese frosting",
-      price: "R18.00",
-      originalPrice: "R22.00",
-      image: muf01,
+      name: "Microscope Slides & Coverslips",
+      description: "Premium-quality glass slides for precise microscopic analysis.",
+      price: "R90.00",
+      originalPrice: "R110.00",
+      image: thermo01,
       rating: 4.8,
       reviews: 89,
-      badge: "Premium Products",
-      category: "Cupcakes",
+      badge: "Premium Quality",
+      category: "Lab Supplies",
     },
+
   ];
 
   const [itemsPerView, setItemsPerView] = useState(3);
@@ -136,7 +137,7 @@ const FeaturedProducts = () => {
             Our Best Products
           </h2>
           <p className="text-lg text-blue-400 max-w-2xl mx-auto">
-            Discover South Africa's best lab products
+            Discover Southern Africa's best lab products
           </p>
         </div>
 

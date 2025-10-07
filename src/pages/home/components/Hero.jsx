@@ -232,19 +232,19 @@ const Hero = () => {
   const heroImages = [
     {
       url: "https://images.unsplash.com/photo-1588776814546-4edb3f98e1c5?auto=format&fit=crop&w=1000&q=80",
-      alt: "Doctor providing patient consultation",
+      alt: "Advanced lab equipment in use for diagnostic testing",
     },
     {
       url: "https://images.unsplash.com/photo-1580281657521-3e88c1a1f72d?auto=format&fit=crop&w=1000&q=80",
-      alt: "Healthcare professionals working together",
+      alt: "Modern diagnostic equipment ensuring accurate results",
     },
     {
       url: "https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1000&q=80",
-      alt: "Modern hospital corridor",
+      alt: "Cutting-edge lab technology improving patient diagnostics",
     },
     {
       url: "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=1000&q=80",
-      alt: "Nurse holding patient’s hand with care",
+      alt: "Specialist conducting molecular diagnostics testing",
     },
     {
       url: "https://images.unsplash.com/photo-1579154204601-01588f351e85?auto=format&fit=crop&w=1000&q=80",

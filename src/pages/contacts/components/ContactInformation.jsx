@@ -190,12 +190,12 @@ const ContactInformation = () => {
       title: 'Email Us',
       description: 'Perfect for orders, quotations, and product details',
       details: [
-        { type: 'General Info', email: 'info@medlab.co.zw' },
-        { type: 'Product Orders', email: 'orders@medlab.co.zw' },
-        { type: 'Technical Support', email: 'support@medlab.co.zw' }
+        { type: 'General Info', email: 'info@medlab.co.za' },
+        { type: 'Product Orders', email: 'orders@medlab.co.za' },
+        { type: 'Technical Support', email: 'support@medlab.co.za' }
       ],
       gradient: 'from-[#38BDF8] to-[#0EA5E9]',
-      button: { text: 'Send Email', href: 'mailto:info@medlab.co.zw' }
+      button: { text: 'Send Email', href: 'mailto:info@medlab.co.za' }
     },
     {
       icon: MapPin,
