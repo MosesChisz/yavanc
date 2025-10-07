@@ -119,7 +119,7 @@ export const productData = [
     images: [tube1],
     category: "tube",
     isNew: false,
-    inStock: false,
+    inStock: true,
     features: ["Disposable", "High-volume Cuff", "Smooth Rounded Tip", "Sterile Packaging"]
   },
   {
@@ -135,7 +135,7 @@ export const productData = [
     images: [drain],
     category: "bags",
     isNew: false,
-    inStock: false,
+    inStock: true,
     features: ["Disposable", "High-volume Cuff", "Smooth Rounded Tip", "Sterile Packaging"]
   },
   {
@@ -151,7 +151,7 @@ export const productData = [
     images: [drain1],
     category: "bags",
     isNew: false,
-    inStock: false,
+    inStock: true,
     features: ["Disposable", "High-volume Cuff", "Smooth Rounded Tip", "Sterile Packaging"]
   },
   {
@@ -167,7 +167,7 @@ export const productData = [
     images: [scico],
     category: "scico",
     isNew: false,
-    inStock: false,
+    inStock: true,
     features: ["Disposable", "High-volume Cuff", "Smooth Rounded Tip", "Sterile Packaging"]
   },
 ];
