@@ -43,7 +43,7 @@ const ContactCTA = () => {
       title: "Email Us",
       subtitle: "Detailed Orders",
       description: "Perfect for complex custom cake requests",
-      number: "orders@sweetdelights.co.zw",
+      number: "info@yavanc.co.za",
       action: "Email Now",
       icon: <Mail className="w-6 h-6" />,
       bgColor: "from-purple-400 to-indigo-500",
@@ -56,7 +56,7 @@ const ContactCTA = () => {
   const quickInfo = [
     {
       icon: <MapPin className="w-4 h-4" />,
-      title: "Visit Our Bakery",
+      title: "Visit Us",
       info: "2 Viner Road, Elma Park, Edenvale",
       subInfo: "South Africa",
     },
@@ -70,7 +70,7 @@ const ContactCTA = () => {
       icon: <Zap className="w-4 h-4" />,
       title: "Same Day Delivery",
       info: "Order before 2:00 PM",
-      subInfo: "Harare & Surroundings",
+      subInfo: "Johannesburg & Surroundings",
     },
   ];
 
@@ -92,15 +92,14 @@ const ContactCTA = () => {
             Get In Touch
           </div>
           <h2 className="text-3xl lg:text-4xl font-bold text-blue-500 mb-4">
-            Let's Create Something
+            🧪 Let’s Build Better 
             <span className="block text-green-300 text-2xl lg:text-3xl mt-1">
-              Sweet Together!
+              Health Together!
             </span>
           </h2>
           <p className="text-lg text-blue-400 max-w-2xl mx-auto leading-relaxed">
-            Ready to place an order or have questions? We're here to help make
-            your sweet dreams come true. Choose your preferred way to connect
-            with us!
+            We’re here to provide reliable products, accurate results, and trusted support for your laboratory needs.
+            Choose your preferred way to reach us — we’re just a message away!
           </p>
         </div>
 
@@ -210,7 +209,7 @@ const ContactCTA = () => {
             <div className="flex flex-col sm:flex-row gap-3 justify-center items-center">
               <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full">
                 <span className="font-bold text-lg">
-                  Emergency: +27 83 742 4056 PRODUCTS
+                  Emergency: +27 63 150 1184 PRODUCTS
                 </span>
               </div>
               <button className="bg-white text-blue-400 px-6 py-2 rounded-full font-bold text-sm hover:bg-red-50 transition-colors duration-300">

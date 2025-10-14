@@ -32,13 +32,13 @@ const Footer = () => {
   const contactInfo = [
     {
       icon: <Phone className="w-4 h-4" />,
-      text: '+27 83 742 4056',
-      href: 'tel:+27837424056'
+      text: '+27 63 150 1184',
+      href: 'tel:+27 63 150 1184'
     },
     {
       icon: <Mail className="w-4 h-4" />,
-      text: 'moseschisa43@gmail.com',
-      href: 'moseschisa43@gmail.com'
+      text: 'info@yavanc.co.za',
+      href: 'info@yavanc.co.za'
     },
     {
       icon: <MapPin className="w-4 h-4" />,

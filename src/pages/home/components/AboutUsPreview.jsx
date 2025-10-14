@@ -84,8 +84,7 @@ const AboutUsPreview = () => {
             {/* Story */}
             <div className="space-y-4 text-blue-400">
               <p className="text-sm sm:text-base lg:text-lg leading-relaxed">
-                What began as a small local lab supply has grown into a trusted source for accurate and reliable laboratory products. 
-                We believe that every test, every sample, and every experiment deserves precision and care.
+                🚚 ❤️
               </p>
               
               <p className="text-xs sm:text-sm lg:text-base leading-relaxed">

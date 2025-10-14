@@ -105,10 +105,10 @@ const TestimonialsSection = () => {
         <div className="text-center mb-8 lg:mb-12">
           <div className="inline-flex items-center gap-1 bg-gradient-to-r from-blue-100 to-blue-100 text-blue-500 px-3 py-1 rounded-full font-medium mb-4 text-sm">
             <Heart className="w-3 h-3 fill-current" />
-            Customer Love
+            Customer Testimonies
           </div>
           <h2 className="text-3xl lg:text-4xl font-bold text-blue-500 mb-4">
-            Sweet Words
+            Good Words
             <span className="block text-green-300 text-2xl lg:text-3xl mt-1">
               From Happy Hearts
             </span>
